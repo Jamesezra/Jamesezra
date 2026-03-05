@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jamesezra
-- 👀 I’m interested in ...Web Development, Software Developoment, Cybr Security and Data Science
-- 🌱 I’m currently learning ...Front end web development
+- 👀 I’m interested in ...Cyber Security, AI Automation and Data Analytics
+- 🌱 I’m currently learning ...AI Automation and Data Analytics
 - 💞️ I’m looking to collaborate on ...Web Development projects
 - 📫 How to reach me ...
 
